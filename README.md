@@ -20,7 +20,7 @@
 |张三|男|12345678901|昌平|123456789012345678|720220511181757000|debit/credit/compcard|1200|
 
 * UML类图如下
-![uml类图](C:\Users\lyy\Documents\绘图1.png)
+![uml类图](gitkraken\atm-project-by-c-\uml.png)
 
 * 主流程图如下
-![主流程图](C:\Users\lyy\Documents\流程图.png)
+![主流程图](gitkraken\atm-project-by-c-\流程图.png)
