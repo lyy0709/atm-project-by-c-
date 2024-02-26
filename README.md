@@ -23,4 +23,4 @@
 ![uml类图](E:\gitkraken\atm-project-by-c-\uml.png)
 
 * 主流程图如下
-![主流程图](E:\gitkraken\atm-project-by-c-\流程图.png)
+![主流程图](https://github.com/lyy0709/atm-project-by-c-/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
